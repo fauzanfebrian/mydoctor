@@ -1,0 +1,22 @@
+{
+
+    "category": [
+        {
+            "category": "Dokter Umum",
+            "id": 1
+        },
+        {
+            "category": "Psikiater",
+            "id": 2
+        },
+        {
+            "category": "Dokter Obat",
+            "id": 3
+        },
+        {
+            "category": "Dokter Anak",
+            "id": 4
+        }
+    ]
+
+}
